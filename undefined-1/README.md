@@ -10,5 +10,3 @@ description: 루비 온 레일즈 가이드의 릴리즈 노트 번역
 
 * [RORLAB의 Ruby on Rails 5.0 릴리즈 노트](https://guides.rorlab.org/5_0_release_notes.html)
 
-
-

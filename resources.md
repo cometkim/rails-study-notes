@@ -21,3 +21,11 @@
 
 [RuboCop 정적 분석 도구](https://github.com/rubocop-hq/rubocop)를 통해 코드 스타일을 검사할 수 있다. 코드를 커밋하기 전에 반드시 RuboCop 코드 검사를 통과하고, 커스텀 스타일을 사용하는 경우 커스텀 된 RuboCop 검사 룰 설정 파일을 저장소에 추가하여 사용하도록 한다.
 
+## 프로젝트
+
+루비 온 레일즈로 개발 중인 오픈소스 프로젝트 목록
+
+* [Discourse](https://github.com/discourse/discourse): 커뮤니티 포럼 플랫폼
+* [GitLab CE](https://github.com/gitlabhq/gitlabhq): 프로젝트, 레파지토리 플랫폼 GitLab의 커뮤니티 버전
+* [Mastodon](https://github.com/tootsuite/mastodon): 분산형 SNS
+

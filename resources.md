@@ -26,6 +26,7 @@
 루비 온 레일즈로 개발 중인 오픈소스 프로젝트 목록
 
 * [Discourse](https://github.com/discourse/discourse): 커뮤니티 포럼 플랫폼
-* [GitLab CE](https://github.com/gitlabhq/gitlabhq): 프로젝트, 레파지토리 플랫폼 GitLab의 커뮤니티 버전
+* [GitLab CE](https://github.com/gitlabhq/gitlabhq): 프로젝트, 레파지토리 플랫폼 GitLab의 커뮤니티 에디션
 * [Mastodon](https://github.com/tootsuite/mastodon): 분산형 SNS
+* [Octobox](https://github.com/octobox/octobox): GitHub 알림 관리 서비스
 

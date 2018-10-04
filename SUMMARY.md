@@ -8,3 +8,7 @@
   * [6.0 \(Alpha\)](releases/6.0.md)
 * [RuboCop](rubocop.md)
 
+## Model
+
+* [Annotate Model](model/annotate-model.md)
+

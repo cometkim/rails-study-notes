@@ -18,3 +18,10 @@
 
 * [UNIX Time \(Milliseconds\) 사용하기](model/unix-time-milliseconds.md)
 
+## Model Design
+
+* [History Source](model-design/history-source.md)
+* [STI \(Single Table Inheritance\)](model-design/sti-single-table-inheritance.md)
+* [MTI \(Multiple Table Inheritance\)](model-design/mti-multiple-table-inheritance.md)
+* [Polymorphic Association](model-design/polymorphic-association.md)
+

@@ -6,6 +6,7 @@
   * [5.1](releases/5.1.md)
   * [5.2](releases/5.2.md)
   * [6.0 \(Alpha\)](releases/6.0.md)
+* [Concern 믹스인 사용하기](concern.md)
 
 ## Gems
 

@@ -6,11 +6,14 @@
   * [5.1](releases/5.1.md)
   * [5.2](releases/5.2.md)
   * [6.0 \(Alpha\)](releases/6.0.md)
-* [RuboCop](rubocop.md)
+
+## Gems
+
+* [RuboCop](gems/rubocop.md)
+* [Annotate Model](gems/annotate-model.md)
+* [Rails ERD](gems/rails-erd.md)
 
 ## Model
 
-* [Annotate Model](model/annotate-model.md)
 * [UNIX Time \(Milliseconds\) 사용하기](model/unix-time-milliseconds.md)
-* [Rails ERD](model/rails-erd.md)
 
